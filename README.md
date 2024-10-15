@@ -1,3 +1,7 @@
+
+![Firefly Bus Booking System 1995](https://github.com/user-attachments/assets/f4ccd4d6-4b0d-4cd6-aa49-d374af93949e)
+
+
 🚌 Bus-Booking-System
 This project is a Python-based Bus Booking System that demonstrates the use of Object-Oriented Programming (OOP) principles to simulate a real-world booking process. The system allows users to provide personal information, select travel routes, choose seat preferences and bus comfort, and verify bookings through OTP authentication.
 
